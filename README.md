@@ -1,7 +1,7 @@
 # supernova
 supernova explosions and shock waves
 
-This repository contains the source code for ExploreSupernova, an interactive educational platform that is dedicated to promoting STEM education, specifically in physics and astronomy, for students of all ages. This website hopes to make complex physics concepts accessible, fun, and engaging through 
+This repository contains the source code for exploreSupernova, an interactive educational platform that is dedicated to promoting STEM education, specifically in physics and astronomy, for students of all ages. This website hopes to make complex physics concepts accessible, fun, and engaging through 
 
 - interactive simulations
 - visual content of physical phenomena with broken-down explanations
